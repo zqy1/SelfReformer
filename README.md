@@ -35,7 +35,7 @@ dataset/benchmark/
 Suppose we use DUTS-TR for training, the overall folder structure should be:
 ```
 |__dataset
-   |__DUTS-TR
+   |__DUTS-TR【fixed】DUTSTR
       |__Images: xxx.jpg ...
       |__Masks : xxx.png ...
    |__benchmark
